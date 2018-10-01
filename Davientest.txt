@@ -1,0 +1,38 @@
+<item>
+<title>[COLORorangered]Portage church of Christ[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCEUgYc7vky1qCnXOVhxOpAQ/</jsonrpc>
+<thumbnail>https://s22.postimg.cc/8y4abg64h/logo.png</thumbnail>
+<fanart>https://s22.postimg.cc/6cypnoodt/bible-and-coffee.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Jesus of Nazareth (1977)[/COLOR]</title>
+<utube>50IiF1rTTGQ</utube>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/412141/p412141_b_v8_aa.jpg</thumbnail>
+<fanart>https://s22.postimg.cc/6cypnoodt/bible-and-coffee.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Paul Apostle of Christ (2018)[/COLOR]</title>
+<link>http://dl3.yoozdl.com/film%20out/Paul%20Apostle%20Of%20Christ.2018/Paul%20Apostle%20Of%20Christ.2018.720p.bluray.mkv</link>
+<thumbnail>https://images.redbox.com/Images/EPC/boxartvertical/204112.jpg</thumbnail>
+<fanart>https://s22.postimg.cc/6cypnoodt/bible-and-coffee.png</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Garland Elkins -God's Eternal Purpose Through Christ And The Church[/COLOR]</title>
+<link>https://s3.amazonaws.com/tullstar_assets/1997/Denton/1997Denton20.mp3</link>
+<thumbnail>https://s22.postimg.cc/76n9g2sj5/coollogo_com-5422251.png</thumbnail>
+<fanart>https://s22.postimg.cc/6cypnoodt/bible-and-coffee.png</fanart>
+</item>
+
+<item>
+<title>[COLORyellow][B]This Will Go To Subfolder[/B][/COLOR]</title>
+<link>ignorme</link>
+<externallink>Insert New Github http here</externallink>
+<thumbnail>https://s22.postimg.cc/qydhfbiqp/icon.png</thumbnail>
+<fanart>https://s22.postimg.cc/6cypnoodt/bible-and-coffee.png</fanart>
+</item>
+
+
