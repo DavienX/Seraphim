@@ -1,4 +1,11 @@
-<item>
+<item><item>
+<title>[COLORyellow][B]Click Here to test[/B][/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://gitlab.com/redwingskodi/church/blob/master/acapella.txt</externallink>
+<thumbnail>https://s22.postimg.cc/qydhfbiqp/icon.png</thumbnail>
+<fanart>https://s22.postimg.cc/6cypnoodt/bible-and-coffee.png</fanart>
+</item>
+
 <title>[COLORorangered]Portage church of Christ[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCEUgYc7vky1qCnXOVhxOpAQ/</jsonrpc>
