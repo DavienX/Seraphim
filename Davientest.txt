@@ -1,4 +1,4 @@
-<item><item>
+<item>
 <title>[COLORyellow][B]Click Here to test[/B][/COLOR]</title>
 <link>ignorme</link>
 <externallink>https://gitlab.com/redwingskodi/church/blob/master/acapella.txt</externallink>
