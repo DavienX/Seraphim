@@ -1,8 +1,0 @@
-
-<item>
-<title>[COLORorangered]test[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCVfwlh9XpX2Y_tQfjeln9QA/</jsonrpc>
-<thumbnail>https://s22.postimg.cc/8y4abg64h/logo.png</thumbnail>
-<fanart>https://s22.postimg.cc/6cypnoodt/bible-and-coffee.png</fanart>
-</item>
